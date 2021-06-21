@@ -1,0 +1,33 @@
+    video {
+        width: 50%;
+    }
+    
+    .tbl {
+        width: 112px;
+        background-color: burlywood;
+        border: 1px solid black;
+    }
+    
+    td,
+    th {
+        border: 1px solid black;
+    }
+    
+    time {
+        color: darkred;
+    }
+    
+    thead {
+        background-color: darkslategray;
+        color: white;
+    }
+    
+    .tbd {
+        background-color: blueviolet;
+        color: white;
+    }
+    
+    tfoot {
+        background-color: crimson;
+        color: white;
+    }
